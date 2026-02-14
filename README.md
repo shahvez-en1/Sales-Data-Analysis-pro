@@ -77,7 +77,7 @@ The objective of this project is to analyze historical sales data and generate a
 1. Clone the repository:
 
 bash
-git clone https://github.com/your-username/Sales-Data-Analysis.git
+git clone https://github.com/shahvez-en1/Sales-Data-Analysis-pro
 
 
 2. Navigate to the project folder:
